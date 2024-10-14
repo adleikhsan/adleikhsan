@@ -1,3 +1,8 @@
+#SC
+
+
+
+
 #Hello Everyone!!
 - Hi, I am @Adleikhsan. 
 - I’m currently learning computer science. 
